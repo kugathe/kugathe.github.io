@@ -1,8 +1,4 @@
-<h1><span style="font-size:36px"><strong>list 1000 site giftcard usa</strong></span></h1>
 
-<p>&nbsp;</p>
-
-<p><span style="font-size:36px"><strong><a href="list">1000 SITE GIFTCARD USA</a></strong></span></p>
 
 <h1><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:28px">IP US</span></span></h1>
 
