@@ -28,33 +28,7 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Danh sách trang web</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        a {
-            text-decoration: none;
-            color: blue;
-        }
-        a:visited {
-            color: purple; /* Đổi màu tím khi đã truy cập */
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Danh sách các trang web</h1>
-    <ul>
+
         <li><a href="https://www.amazon.com" target="_self">https://www.amazon.com</a></li>
         <li><a href="https://www.walmart.com" target="_self">https://www.walmart.com</a></li>
         <li><a href="https://www.ebay.com" target="_self">https://www.ebay.com</a></li>
