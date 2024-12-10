@@ -27,6 +27,7 @@
 ==================
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,6 +43,9 @@
         a {
             text-decoration: none;
             color: blue;
+        }
+        a:visited {
+            color: purple; /* Đổi màu tím khi đã truy cập */
         }
         a:hover {
             text-decoration: underline;
